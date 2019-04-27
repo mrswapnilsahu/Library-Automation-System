@@ -1,0 +1,38 @@
+#card-bg1 {
+
+	/*background-image: linear-gradient(to right, #84d9d2, #07cdae);*/
+	background:linear-gradient(135deg, #C56CD6 0%,#3425AF 100%);
+
+}
+.card1 {
+	border: 5px solid transparent;
+	border-image: linear-gradient(to bottom, #22c1c3, #fdbb2d);
+	border-image-slice: 1;
+}
+#card-bg2 {
+	/*background-image: linear-gradient(to right, #000046, #1cb5e0);*/
+	/*background:linear-gradient(135deg, #c3ec52 0%,#0ba29d 100%);*/
+	background:linear-gradient(135deg, #FF57B9 0%,#A704FD 100%);
+}
+#card-bg3 {
+	/*background-image: linear-gradient(89deg, #5e7188, #3e4b5b);*/
+
+	/*background:linear-gradient(135deg, #184e68 0%,#57ca85 100%);*/
+	/*background:linear-gradient(135deg, #13f1fc 0%,#0470dc 100%);*/
+	background: #00F260;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+#card-bg4{
+background:linear-gradient(135deg, #184e68 0%,#57ca85 100%);
+}
+#card-bg5{
+background:linear-gradient(135deg, #c13134 0%,#f97a66 100%);
+}
+#card-bg6{
+	background:linear-gradient(135deg, #ff2525 0%,#ff8930 100%);
+}
+#card-bg7{
+	background:linear-gradient(135deg, #6b72ff 0%,#000cff 100%);
+}
